@@ -13,6 +13,17 @@ h1 {
   text-align: center;
   font-weight: 300;
 }
+
+h5 {
+	color: blue;
+	text-align: center;
+}
+
+p{
+	color: pink;
+	text-align: center;
+}
+
   
 img {
   max-width: 40%;
